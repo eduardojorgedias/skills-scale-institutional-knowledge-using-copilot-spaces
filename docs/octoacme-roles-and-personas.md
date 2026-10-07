@@ -167,6 +167,37 @@ Sponsors and key stakeholders provide business context, approvals, and resources
 
 ---
 
+## Scrum Master / Agile Coach
+
+### Role Summary
+Scrum Masters and Agile Coaches help the team improve collaboration, remove blockers, and sustain healthy delivery practices. They focus on team effectiveness, continuous improvement, and alignment with agile principles.
+
+### Responsibilities
+- Facilitate sprint planning, daily standups, reviews, and retrospectives
+- Remove impediments and help resolve cross-team dependencies
+- Coach the team on agile practices and process improvements
+- Support delivery health through metrics and team feedback
+- Partner with Product Managers and Project Managers on scope clarity and prioritization flow
+- Protect the team from unnecessary process overhead and churn
+
+### Key Interactions
+- **With Developers**: Team facilitation, blocker removal, workflow improvement
+- **With Product Managers**: Prioritization alignment, backlog refinement, delivery expectations
+- **With Project Managers**: Dependency tracking, milestone readiness, risk communication
+- **With Stakeholders**: Progress transparency and escalation support when needed
+
+### Goals
+- Improve team flow and predictability
+- Maintain an effective, collaborative delivery cadence
+- Help the team continuously improve quality and productivity
+
+### Typical Communication
+- Sprint ceremonies and retrospectives
+- Team health check-ins and backlog refinement sessions
+- Delivery metrics and impediment tracking
+
+---
+
 ## Operations / DevOps Engineer
 
 ### Role Summary
